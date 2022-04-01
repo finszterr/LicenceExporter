@@ -1,0 +1,11 @@
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\bin\Debug\LicenceExporter.dll
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\bin\Debug\LicenceExporter.pdb
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\bin\Debug\System.Management.Automation.dll
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\bin\Debug\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\bin\Debug\System.Management.Automation.xml
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\obj\Debug\LicenceExporter.csprojAssemblyReference.cache
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\obj\Debug\LicenceExporter.csproj.CoreCompileInputs.cache
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\obj\Debug\LicenceExporter.csproj.CopyComplete
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\obj\Debug\LicenceExporter.dll
+C:\Users\finszterr\Documents\Extensions\LicenceExporter\LicenceExporterDll\LicenceExporter\LicenceExporter\obj\Debug\LicenceExporter.pdb
